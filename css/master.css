@@ -1,0 +1,81 @@
+p {
+	color: white;
+}
+
+h1 {
+	font-style: italic;
+}
+
+a {
+	color: Grey;
+	text-decoration: none;
+	text-transform: capitalize;
+}
+
+a:hover {
+	color: white;
+}
+
+.topbox{
+	position: absolute;
+	top: 0px;
+	bottom: -14px
+	margin-right: 0px;
+	left: 0px;
+	display: block;
+	z-index: 1;
+	background: white;
+}
+
+.heading { 
+	text-align: center;
+	background: black;
+	color: white;
+	padding: 2px;
+	padding-left: 20px;
+	border-radius: 10px;
+	position: fixed;
+	width: 80%;
+	margin-right:-40%;
+	margin-left: -40%;
+	left: 50%;
+}
+
+.links {
+	background: black;
+	text-align: center;
+	width: 80%;
+	margin-right:-40%;
+	margin-left: -40%;
+	left: 50%;
+	margin-top: 2px;
+	font-size: 20px;
+	padding: 20px;
+	position: absolute;
+	
+}
+
+.post-container{
+	margin-top: 200px;
+}
+
+.blog-stuff {
+	background: black;
+	color: white;
+	width:450px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	padding: 30px;
+	border-radius: 5px;
+	text-align: justify;
+}
+
+.visitors{
+
+}
+
+.search{
+
+}
+
